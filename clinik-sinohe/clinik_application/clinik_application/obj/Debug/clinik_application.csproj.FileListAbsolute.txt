@@ -1,0 +1,37 @@
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\bin\Debug\clinik-sinohe_application.exe
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\bin\Debug\clinik-sinohe_application.pdb
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\bin\Debug\DevComponents.DotNetBar2.dll
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\ResolveAssemblyReference.cache
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.Form1.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.Properties.Resources.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.csproj.GenerateResource.Cache
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.exe
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.pdb
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.back_up.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.restore.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.login.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.nazarat.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.soalat.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.pezeshk.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.ruzkar.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.r_news.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.news.resources
+D:\uni\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.nobatdehi.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.exe
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.pdb
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\bin\Debug\clinik-sinohe_application.exe
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\bin\Debug\clinik-sinohe_application.pdb
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\ResolveAssemblyReference.cache
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.back_up.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.nobatdehi.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.news.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.ruzkar.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.pezeshk.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.r_news.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.soalat.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.Form1.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.login.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.Properties.Resources.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.restore.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.nazarat.resources
+E:\new for zh 94.2.3\product\asp project\clinik-sinohe\clinik-sinohe_application\clinik-sinohe_application\obj\Debug\clinik-sinohe_application.csproj.GenerateResource.Cache

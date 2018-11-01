@@ -1,0 +1,130 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+    <style>
+    #Div1
+	{
+            left:1%;top:1%;width:98%;height:20%;
+            position:absolute ;
+  border-width:thin  ;border-color:Red;border-style:inherit    ;
+  }
+
+	#Div3
+	{
+            left:83%;top:22%;width:17%;height:100%;
+           position:absolute ;
+            border-width:thin  ;border-color:Red;border-style:none    ;
+	}
+#Div4
+	{ 
+            left:1%;top:22%;width:83%;height:100%;
+            position:absolute;
+             border-width:thin  ;border-color:Red;border-style:none     ;          
+	}
+	#Div5
+	{ 
+            border: thin none Red;
+left:1%;
+top:7%;
+width:87%;
+height:87%;
+            position:absolute;
+        }
+
+
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+   <div id="Div1">  
+       <asp:Image ID="Image1" runat="server" Height="115px" 
+           ImageUrl="~/images/t2.jpg" Width="1328px" />
+    </div>
+    <div id="Div3">
+        <asp:Image ID="Image2" runat="server" ImageUrl="~/images/header.png" 
+            Width="215px" Height="16px" />
+        <br />
+        <asp:ImageButton ID="ImageButton14" runat="server" 
+            ImageUrl="~/images/menus/menu-main.jpg" Width="214px" 
+            PostBackUrl="~/main.aspx" />
+        <br />
+        <br />
+        <asp:ImageButton ID="ImageButton8" runat="server" 
+            ImageUrl="~/images/menus/nobat.jpg" Width="214px" 
+            PostBackUrl="~/select type nobat.aspx" />
+        <br />
+        <br />
+        <asp:ImageButton ID="ImageButton9" runat="server" 
+            ImageUrl="~/images/menus/cancel.jpg" Width="214px" 
+            PostBackUrl="~/cancel_nobat.aspx" />
+        <br />
+&nbsp;
+        <br />
+        <asp:ImageButton ID="ImageButton10" runat="server" 
+            ImageUrl="~/images/menus/menu-listkala.jpg" Width="214px" 
+            PostBackUrl="~/list_p.aspx" />
+        <br />
+        <br />
+        <asp:ImageButton ID="ImageButton11" runat="server" 
+            ImageUrl="~/images/menus/menu-question.jpg" Width="214px" 
+            PostBackUrl="~/soalat.aspx" />
+        <br />
+&nbsp;&nbsp;
+        <asp:ImageButton ID="ImageButton12" runat="server" 
+            ImageUrl="~/images/menus/menu-nazarat.jpg" Width="214px" 
+            PostBackUrl="~/nazarat.aspx" />
+        <br />
+        <br />
+        <asp:ImageButton ID="ImageButton13" runat="server" 
+            ImageUrl="~/images/menus/menu-about.jpg" Width="214px" 
+            PostBackUrl="~/admin.aspx" />
+        <br />
+        <asp:Image ID="Image3" runat="server" ImageUrl="~/images/header2.png" 
+            Width="215px" Height="16px" />
+        <br />
+        &nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        </asp:ContentPlaceHolder>
+        <br />
+&nbsp;
+        <br />
+&nbsp;
+        <br />
+&nbsp;
+        <br />
+        <br />
+        <br />
+&nbsp;<br />
+&nbsp;
+        </div>
+    <div id="Div4">
+
+        <asp:Label ID="Label1" runat="server" ForeColor="Red" Text="Label"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+        <asp:Label ID="Label3" runat="server" ForeColor="Red" Text="Label"></asp:Label>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="Label2" runat="server" ForeColor="Red" Text="Label"></asp:Label>
+        <br />
+        <br />
+        <div id="div5"><asp:ContentPlaceHolder 
+            ID="ContentPlaceHolder1" runat="server">
+            <p>
+                <br />
+            </p>
+            <p>
+            </p>
+
+        </asp:ContentPlaceHolder>
+        </div>
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+        <br />
+        <br />
+&nbsp;</div>
+    </form>
+    <p>
+&nbsp;</p>
+    <p>
+&nbsp;</p>
+</body>
+</html>
